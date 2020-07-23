@@ -1,7 +1,6 @@
 #PyPoll Homework
 import os
 import csv
-import zipfile
 
 csvpath = os.path.join("Resources","election_data.csv")
 
